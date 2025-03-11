@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+.login-container, nav, input, button, textarea {
+    margin: 10px;
+    padding: 10px;
+}
+.login-container {
+    width: 300px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px gray;
+    margin: auto;
+}
+nav {
+    background: #007BFF;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+button {
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
